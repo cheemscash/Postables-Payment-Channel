@@ -44,7 +44,7 @@ elif choice == 1:
 	sigParts(h,v,r,s)
 else:
 	print('try again')
-	exit(1)
+	exit(1) 
 
 
 
